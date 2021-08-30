@@ -9,4 +9,4 @@ Python
 <h2>Don'ts</h2>
 
 *  Don't input complex operations.
-*  Don't delete or rename "RedHair.jpg","RedHair.png" and "icon.ico".
+*  Don't delete or rename "RedHair.jpg" and "icon.ico".
